@@ -28,7 +28,7 @@ The optional mobile navigation menu and Wi-Fi password copy interaction have not
 
 ### Screenshot
 
-![Design preview for the Hotel booking confirmation page coding challenge](./preview.jpg)
+![Design preview for the Hotel booking confirmation page coding challenge](hotel-booking.png)
 
 ### Links
 
